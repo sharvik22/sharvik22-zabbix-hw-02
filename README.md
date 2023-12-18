@@ -64,7 +64,7 @@
 
 ![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-02/blob/main/images/Screenshot_23.png)
 
-Команды по установке инастройке zabbix-agent
+Команды по установке и настройке zabbix-agent
 1. sudo apt update
 2. sudo apt install zabbix-agent
 3. sudo nano /etc/zabbix/zabbix_agentd.conf
@@ -80,3 +80,10 @@
 1. Приложите в файл README.md скриншот раздела Latest Data, где видно свободное место на диске C:
 --- 
 ### Решение (Задание 3):
+![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-02/blob/main/images/Screenshot_25.png)
+![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-02/blob/main/images/Screenshot_21.png)
+![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-02/blob/main/images/Screenshot_27.png)
+
+
+
+
