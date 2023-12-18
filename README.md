@@ -16,7 +16,7 @@
 
 ---
 ### Решение (Задание 1):
-![alt text](https://github.com/sharvik22/zabbix-hw-02/blob/main/Screenshot_17.png)
+![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-02/blob/main/images/Screenshot_17.png)
 
 ### Задание 2 
 
