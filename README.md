@@ -64,7 +64,7 @@
 
 ![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-02/blob/main/images/Screenshot_23.png)
 
-Linix install zabbix-agent
+# Linix install zabbix-agent
 1)sudo apt update
 2)sudo apt install zabbix-agent
 3)sudo nano /etc/zabbix/zabbix_agentd.conf
