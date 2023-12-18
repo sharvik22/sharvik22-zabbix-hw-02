@@ -54,6 +54,8 @@
 
 ---
 ### Решение (Задание 2):
+VM1 - виртуальная машина на Linux.
+
 ![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-02/blob/main/images/Screenshot_21.png)
 
 ![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-02/blob/main/images/Screenshot_26.png)
@@ -80,6 +82,7 @@
 1. Приложите в файл README.md скриншот раздела Latest Data, где видно свободное место на диске C:
 --- 
 ### Решение (Задание 3):
+VM2 - виртуальная машина на Windows.
 ![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-02/blob/main/images/Screenshot_25.png)
 ![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-02/blob/main/images/Screenshot_21.png)
 ![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-02/blob/main/images/Screenshot_28.png)
