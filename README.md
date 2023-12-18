@@ -16,15 +16,19 @@
 
 ---
 ### Решение (Задание 1):
-Я не много отошёл от задания и использовал:
-1)	Ubuntu 20.04.6 LTS
-2)	Nginx
-3)	Postgresql 14 (т.к. Zabbix Server 6.4 требуется версия не ниже Postgresql 13, можно использовать и ниже версии, предварительно отключи в конфигурации Zabbix-server проверку, но лучше использовать рекомендованные требования)
-4)	Расширение Timescaledb (для сжатия данный и чтобы размер базы не так разрастался)
+Я не много отошёл от процесса выполнения задания и использовал:
+1)	Ubuntu 20.04.6 LTS.
+2)	Nginx.
+3)	Postgresql 14 (т.к. Zabbix Server 6.4 требуется версия не ниже Postgresql 13, можно использовать и ниже версии, предварительно отключи в конфигурации Zabbix-server проверку, но лучше использовать рекомендованные требования).
+4)	Расширение Timescaledb (для сжатия базы).
+   
 Все команды по установке Zabbix Server брал с оф. сайта Zabbix. 
 
-
 ![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-02/blob/main/images/Screenshot_17.png)
+
+![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-02/blob/main/images/Screenshot_1.png)
+
+![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-02/blob/main/images/Screenshot_2.png)
 
 
 ### Задание 2 
