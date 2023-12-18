@@ -30,6 +30,10 @@
 
 ![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-02/blob/main/images/Screenshot_20.png)
 
+![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-02/blob/main/images/Screenshot_3.png)
+
+![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-02/blob/main/images/Screenshot_10.png)
+
 
 ### Задание 2 
 
