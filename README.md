@@ -26,9 +26,9 @@
 
 ![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-02/blob/main/images/Screenshot_17.png)
 
-![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-02/blob/main/images/Screenshot_1.png)
+![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-02/blob/main/images/Screenshot_19.png)
 
-![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-02/blob/main/images/Screenshot_2.png)
+![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-02/blob/main/images/Screenshot_20.png)
 
 
 ### Задание 2 
