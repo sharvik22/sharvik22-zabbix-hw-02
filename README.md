@@ -64,13 +64,13 @@
 
 ![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-02/blob/main/images/Screenshot_23.png)
 
-# Linix install zabbix-agent
-1)sudo apt update
-2)sudo apt install zabbix-agent
-3)sudo nano /etc/zabbix/zabbix_agentd.conf
-4)sudo systemctl restart zabbix-agent
-5)sudo systemctl enable zabbix-agent
-6)sudo systemctl status zabbix-agent
+Команды по установке инастройке zabbix-agent
+1. sudo apt update
+2. sudo apt install zabbix-agent
+3. sudo nano /etc/zabbix/zabbix_agentd.conf
+4. sudo systemctl restart zabbix-agent
+5. sudo systemctl enable zabbix-agent
+6. sudo systemctl status zabbix-agent
 
 
 ## Задание 3 со звёздочкой*
