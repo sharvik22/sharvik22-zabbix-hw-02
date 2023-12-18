@@ -82,6 +82,7 @@
 ### Решение (Задание 3):
 ![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-02/blob/main/images/Screenshot_25.png)
 ![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-02/blob/main/images/Screenshot_21.png)
+![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-02/blob/main/images/Screenshot_28.png)
 ![alt text](https://github.com/sharvik22/sharvik22-zabbix-hw-02/blob/main/images/Screenshot_27.png)
 
 
